@@ -1,3 +1,7 @@
 # Spider Man game 
-Play it at [link](https://yogpanjarale.github.io/Project-38/)
-AWASD to move click on block to stick thier , beaware you can ge deattached if you be for long time with rope
+Play It At [Link](https://dibyayan8992.github.io/Spider-Man-Game/)
+WASD To Move Click On Block To Stick Thier , Beaware You Can Get Deattached If You Be For Long Time With Rope
+
+The Best Game Ever
+
+# Created By Dibyayan Kar
